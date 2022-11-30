@@ -1,1 +1,1 @@
-<h2>Para saber proposta do desafio, acessar o arquivo intruções do desafio.pdf</h2>
+<h2>Para saber proposta do desafio, acessar o arquivo instruções do desafio.pdf</h2>
